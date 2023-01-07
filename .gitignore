@@ -3,7 +3,8 @@
 ## Please do not remove line 5 - thanks! 🙂 ##
 ###############################################
 *.sketch
-
+*.md
+index.html
 # Avoid accidental XD or Figma upload if you convert the design file
 #######################################################
 ## Please do not remove lines 11 and 12 - thanks! 🙂 ##
@@ -15,5 +16,4 @@
 .DS_Store
 
 .prettierignore
-*.md
-index.html
+
