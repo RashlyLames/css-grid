@@ -1,0 +1,1 @@
+I got all of those file from frontendMentor. Actually, I coded only on **griding.html and Grid-style.css** by using component that they'd given.
